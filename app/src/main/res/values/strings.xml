@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">TuTuTest</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Feed</string>
+    <string name="second_fragment_label">Details</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="category_id_prefix">ID: </string>
+    <string name="category_title_prefix">Title: </string>
+    <string name="category_clue_count">Clues count: </string>
+    <string name="status_online"> Online</string>
+    <string name="status_offline"> Offline</string>
+    <string name="retrofit_error">Error while loading via API… try again</string>
+    <string name="local_storage_error">No offline data - get online an load via API first</string>
+    <string name="dialog_terminate_no_permissions_title">Closing App</string>
+    <string name="dialog_terminate_no_permissions_text">You should grant permissions as requested to continue!!!</string>
+    <string name="extended_fab_label">Refresh Feed</string>
+</resources>
